@@ -10,12 +10,12 @@ img {
     border-radius: 15px;
 }
 
-#cabecalho-um {
+h3{
     background-color: #FFA600;
     border: 5px solid #855B0F;
     border-radius: 10px;
 }
 
-#cabecalho-dois {
+a{
     color: #0000d7;
 }
